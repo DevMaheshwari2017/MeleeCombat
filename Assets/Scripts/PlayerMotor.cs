@@ -13,6 +13,9 @@ public class PlayerMotor : MonoBehaviour
     private Vector3 playerVelocity;
     private bool isGrounded;
 
+    //Getter
+    public Vector3 GetPlayerVelocity() => playerVelocity;
+
     private void Start()
     {
         controller = GetComponent<CharacterController>();
