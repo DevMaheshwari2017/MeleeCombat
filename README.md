@@ -27,4 +27,4 @@ The Melee Combat project showcases a robust and immersive melee combat system wi
 
 ## Preview
 
-[![Melee Combat Video](https://img.youtube.com/vi/2Y5wDuzKj8M/0.jpg)](https://www.youtube.com/watch?v=2Y5wDuzKj8M)
+[![Melee Combat Video](https://img.youtube.com/vi/dJVYk16JLO8/0.jpg)](https://www.youtube.com/watch?v=dJVYk16JLO8)
