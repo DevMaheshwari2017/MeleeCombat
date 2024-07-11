@@ -20,6 +20,11 @@ The Melee Combat project is a comprehensive system developed using Unity, design
 
 Unity VFX Graph: Faced challenges using Unity VFX Graph for the first time but successfully learned and implemented it to create impressive visual effects for sword slashes and impacts.
 
+
 ## Conclusion
 
 The Melee Combat project showcases a robust and immersive melee combat system with smooth movement, modular design, realistic animations, engaging sound effects, and stunning visual effects. Overcoming the challenges with Unity VFX Graph has added a significant visual enhancement to the project.
+
+## Preview
+
+[![Melee Combat Video](https://img.youtube.com/vi/dJVYk16JLO8/0.jpg)](https://www.youtube.com/watch?v=dJVYk16JLO8)
