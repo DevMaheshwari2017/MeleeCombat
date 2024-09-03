@@ -49,7 +49,7 @@ public class InputManager : MonoBehaviour
 
     private void AssignInputs() 
     {
-        onFoot.Jump.performed += ctx => motor.jump();
+        onFoot.Jump.performed += ctx => motor.Jump();
         onFoot.Attack.started += ctx => controller.Attack();
     }
 

@@ -43,7 +43,7 @@ public class PlayerMotor : MonoBehaviour
         Debug.Log(playerVelocity.y);
     }
 
-    public void jump() 
+    public void Jump() 
     {
         if (isGrounded) 
         {
